@@ -15,7 +15,6 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
 
 **Approach**:
 
-  - We implemented both supervised and unsupervised models.
   - We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
 
 **Insights Gained**:
