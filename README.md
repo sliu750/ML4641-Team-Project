@@ -14,11 +14,10 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
       - **Clustering**: Groups houses by similar characteristics with regard to price, helping sellers determine a suitable price range.
 
 **Approach**:
-  - We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
+    - We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
 
 **Insights Gained**:
-
-    Through this project, we gained valuable insights into the housing market and consumer preferences. These insights can help:
+    - Through this project, we gained valuable insights into the housing market and consumer preferences. These insights can help:
       - Potential renters decide if a house meets their criteria
       - Buyers predict housing prices
       - Sellers set competitive and fair pricing
