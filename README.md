@@ -19,6 +19,7 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
     - We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
 
 **Insights Gained**:
+
     - Through this project, we gained valuable insights into the housing market and consumer preferences. These insights can help:
       - Potential renters decide if a house meets their criteria
       - Buyers predict housing prices
