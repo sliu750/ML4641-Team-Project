@@ -4,7 +4,7 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
 
 **Models Implemented**:
 
-We implemented both supervised and unsupervised models.
+ We implemented both supervised and unsupervised models.
 
   **Supervised Models**:
     - **Decision Tree**: Helps users decide whether to rent a house based on its features (e.g. number of bedrooms, number of bathrooms, area)
@@ -15,7 +15,7 @@ We implemented both supervised and unsupervised models.
 
 **Approach**:
 
-We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
+ We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
 
 **Insights Gained**:
 
