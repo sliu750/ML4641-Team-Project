@@ -4,11 +4,11 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
 
 **Models Implemented**:
 
- - We implemented both supervised and unsupervised models.
-
- - **Supervised Models**:
-  - **Decision Tree**: Helps users decide whether to rent a house based on its features (e.g. number of bedrooms, number of bathrooms, area)
-  - **Regression Model**: Predicts the price of a house based on its characteristics
+  - We implemented both supervised and unsupervised models.
+    
+    - **Supervised Models**:
+      - **Decision Tree**: Helps users decide whether to rent a house based on its features (e.g. number of bedrooms, number of bathrooms, area)
+      - **Regression Model**: Predicts the price of a house based on its characteristics
 
  - **Unsupervised Models**:
   - **Clustering**: Groups houses by similar characteristics with regard to price, helping sellers determine a suitable price range.
