@@ -13,7 +13,7 @@ In our Machine Learning (CS 4641) group project, we analyzed real estate dataset
     - **Unsupervised Models**:
       - **Clustering**: Groups houses by similar characteristics with regard to price, helping sellers determine a suitable price range.
 
-**Approach**:
+**Libraries Used**:
 
   - We leveraged Python packages such as numpy, pandas, sklearn, and TensorFlow for data preprocessing/cleaning, model training and evaluation, and visualization of results.
 
