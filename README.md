@@ -1,6 +1,6 @@
 # Real Estate Analysis using Machine Learning
 
-In our Machine Learning (CS 4641) group project, we analyzed real estate datasets to provide insights and predictions that can assist in making informed decisions about renting, buying, and selling properties.
+In our Machine Learning (CS 4641) group project, we analyzed real estate datasets to provide insights and predictions that can assist with making informed decisions about renting, buying, and selling properties.
 
 **Models Implemented**:
 
